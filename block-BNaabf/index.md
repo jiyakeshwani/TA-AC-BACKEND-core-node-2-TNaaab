@@ -47,3 +47,4 @@ You have to basically handle 2 routes
 ##### Note:-
 - action attribute determines the route which will be requested on server side
 - method defines HTTP method used to submit the form(ideally POST)
+
