@@ -53,7 +53,7 @@ Whenever a `POST` request comes on `/users` with user data from postman
 
 Entire code should look like:
 
-```js
+<!-- ```js
 // define a users directory at top where all users will be stored
 const userDir = __dirname + "/users/";
 // OR using path module
@@ -87,7 +87,7 @@ if (req.url === "/users" && req.method === "POST") {
     });
   });
 }
-```
+``` -->
 
 Handle all the error encountered during file system operation.
 
